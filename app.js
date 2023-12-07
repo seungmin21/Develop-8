@@ -16,4 +16,7 @@ function googoo(number) {
   return add
 }
 
-console.log(googoo(1))
+let addition = googoo(1)
+console.log(addition)
+
+//console.log(googoo(1))
