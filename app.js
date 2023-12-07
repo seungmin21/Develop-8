@@ -16,4 +16,4 @@ function googoo(number) {
   return add
 }
 
-googoo(1)
+console.log(googoo(1))
